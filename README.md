@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: an incorrect base case. The function `myFunction` is intended to calculate the product of two numbers, but it incorrectly returns 0 when either input is 0.  The corrected version provides the correct base case, ensuring accurate calculations for all input values. 
